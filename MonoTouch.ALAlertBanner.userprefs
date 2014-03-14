@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ApiDefinition.cs">
+    <Files>
+      <File FileName="ApiDefinition.cs" Line="14" Column="29" />
+      <File FileName="StructsAndEnums.cs" Line="3" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../projects/TrackAbout/smartphone/TrackAbout.Mobile.UI.iOS/ViewControllers/LoginViewController.cs" line="142" offsetX="809" offsetY="2115" expression="TrackAbout.Mobile.Localization.LocalizableStrings" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
